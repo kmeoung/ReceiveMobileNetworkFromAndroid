@@ -1,0 +1,3 @@
+-keep class com.iansit.plugin.bean.BeanMobileNetwork.** { *; }
+-keep class com.iansit.plugin.bean.BeanWifiData.** { *; }
+-keep class com.iansit.plugin.utils.network.MobileNetworkManager.** { *; }
